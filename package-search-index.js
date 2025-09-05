@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"org.boardgames.crossway"},{"l":"org.boardgames.crossway.controller"},{"l":"org.boardgames.crossway.model"},{"l":"org.boardgames.crossway.model.rules"},{"l":"org.boardgames.crossway.ui"},{"l":"org.boardgames.crossway.utils"}];updateSearchResults();

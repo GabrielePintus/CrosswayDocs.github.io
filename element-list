@@ -1,0 +1,6 @@
+org.boardgames.crossway
+org.boardgames.crossway.controller
+org.boardgames.crossway.model
+org.boardgames.crossway.model.rules
+org.boardgames.crossway.ui
+org.boardgames.crossway.utils
